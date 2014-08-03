@@ -464,12 +464,13 @@ a.medium {
 }
 
 #chat-container li p {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(100% - 230px);
+    margin: 14px 0 18px 18px;
     color: #000;
     font-size: 1.35rem;
     line-height: 1.5rem;
-    min-width: 182px;
-    overflow: hidden;
-    padding: 14px 70px 18px 171px;
     overflow: hidden;
     text-overflow: ellipsis;
 }
