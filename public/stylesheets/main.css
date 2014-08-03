@@ -502,12 +502,10 @@ a.medium {
 #chat-container li .timestamp {
     border: 0;
     color: #666;
-    display: block;
+    display: inline-block;
+    vertical-align: top;
     font-size: 0.8rem;
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding: 8px;
+    margin-top: 8px;
 }
 
 #chat-container li p span {
