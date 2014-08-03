@@ -435,7 +435,6 @@ a.medium {
 
 #chat-container li {
     background-color: rgba(255, 255, 255, 0.85);
-    min-height: 102px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -448,7 +447,7 @@ a.medium {
     height: 1px;
     background: #f181ad;
     content: "";
-    bottom: 1px;
+    bottom: 2px;
     left: 171px;
     right: 0px;
 }
@@ -470,7 +469,7 @@ a.medium {
     margin: 14px 18px 18px 18px;
     color: #000;
     font-size: 1.35rem;
-    line-height: 1.5rem;
+    line-height: 1.6rem;
     overflow: hidden;
     text-overflow: ellipsis;
 }
