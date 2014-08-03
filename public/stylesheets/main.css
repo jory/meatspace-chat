@@ -435,8 +435,6 @@ a.medium {
 
 #chat-container li {
     background-color: rgba(255, 255, 255, 0.85);
-    clear: both;
-    float: left;
     min-height: 102px;
     width: 100%;
     overflow: hidden;
