@@ -466,8 +466,8 @@ a.medium {
 #chat-container li p {
     display: inline-block;
     vertical-align: top;
-    width: calc(100% - 230px);
-    margin: 14px 0 18px 18px;
+    width: calc(100% - 245px);
+    margin: 14px 18px 18px 18px;
     color: #000;
     font-size: 1.35rem;
     line-height: 1.5rem;
